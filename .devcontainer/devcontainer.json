@@ -1,0 +1,10 @@
+{
+    "name": "python3",
+    "image": "python:3.9.16",
+    "extensions": [
+      "ms-python.python",
+      "ms-vsliveshare.vsliveshare"
+    ],
+    "settings": {
+    }
+}
